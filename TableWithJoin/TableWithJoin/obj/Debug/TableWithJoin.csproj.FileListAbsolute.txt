@@ -1,0 +1,5 @@
+E:\Biz-test\TableWithJoin\TableWithJoin\bin\Debug\TableWithJoin.exe.config
+E:\Biz-test\TableWithJoin\TableWithJoin\bin\Debug\TableWithJoin.exe
+E:\Biz-test\TableWithJoin\TableWithJoin\bin\Debug\TableWithJoin.pdb
+E:\Biz-test\TableWithJoin\TableWithJoin\obj\Debug\TableWithJoin.exe
+E:\Biz-test\TableWithJoin\TableWithJoin\obj\Debug\TableWithJoin.pdb

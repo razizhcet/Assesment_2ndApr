@@ -1,0 +1,6 @@
+E:\Biz-test\OneServerMultiClient\Server\bin\Debug\Server.exe.config
+E:\Biz-test\OneServerMultiClient\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Biz-test\OneServerMultiClient\Server\bin\Debug\Server.exe
+E:\Biz-test\OneServerMultiClient\Server\bin\Debug\Server.pdb
+E:\Biz-test\OneServerMultiClient\Server\obj\Debug\Server.exe
+E:\Biz-test\OneServerMultiClient\Server\obj\Debug\Server.pdb

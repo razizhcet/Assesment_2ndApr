@@ -1,0 +1,5 @@
+E:\Biz-test\OneServerMultiClient\MultiClient\bin\Debug\MultiClient.exe.config
+E:\Biz-test\OneServerMultiClient\MultiClient\bin\Debug\MultiClient.exe
+E:\Biz-test\OneServerMultiClient\MultiClient\bin\Debug\MultiClient.pdb
+E:\Biz-test\OneServerMultiClient\MultiClient\obj\Debug\MultiClient.exe
+E:\Biz-test\OneServerMultiClient\MultiClient\obj\Debug\MultiClient.pdb
